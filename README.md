@@ -1,8 +1,6 @@
 
 
-# Project Name
-Hello Microverse
-
+# Hello Microverse
 
 In this project, we setuped "Hello_Microverse" repository. The goal of this repository is to understand how linter helps with HTML and CSS, how to use the .gitignore inorder to avoid unwanted files from being visible in our git repository. I have explained below what we used to accomplish this task.
 
